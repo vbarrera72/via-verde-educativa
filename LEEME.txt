@@ -1,0 +1,13 @@
+VÍA VERDE EDUCATIVA - SITIO CON VIDEO NUEVO
+
+Este paquete ya incluye:
+- index.html
+- styles.css
+- script.js
+- carpeta assets/
+- video_cruce_nivel_seguro.mp4
+- subtitulos_cruce_seguro.vtt
+- imágenes, GIF y audio existentes del sitio
+
+Para publicarlo en GitHub Pages, sustituye los archivos del repositorio por los de este paquete.
+El HTML ya apunta a assets/video_cruce_nivel_seguro.mp4.
